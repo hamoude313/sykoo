@@ -20,10 +20,10 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet S Y K O O")
 print
-print "Author   : S Y K O"
-print "You Tube : https://www.youtube.com/c/HA-MRX"
-print "github   : https://github.com/Ha3MrX"
-print "Facebook : https://www.facebook.com/muhamad.jabar222"
+print "Author   : S Y K O O"
+print "I'm back  : Sykoo + hamoude"
+print "instagram   :@d_4g_"
+print "instagram  : @bz7ii"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
